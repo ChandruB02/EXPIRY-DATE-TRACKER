@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "586696320221",
+    "project_id": "scanner-a3033",
+    "storage_bucket": "scanner-a3033.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586696320221:android:5dfbcfd77ba1a537a72734",
+        "android_client_info": {
+          "package_name": "com.example.scannar_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApjW-95B5Y70rFV28rZ7W3P2Gql2Kf8VE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586696320221:android:425b9cc5a0c9077ea72734",
+        "android_client_info": {
+          "package_name": "com.example.scannar_app_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApjW-95B5Y70rFV28rZ7W3P2Gql2Kf8VE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
